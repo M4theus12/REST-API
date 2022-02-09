@@ -1,0 +1,40 @@
+POST http://localhost:8080/account
+Content-Type: application/json
+{
+ "id": "cc22",
+"name" :"Matheus",
+"title": "Eu",
+    "url": "99999",
+    "imageUrl": "9999",
+    "newsSite": "99999",
+    "summary": "00000",
+    "publishedAt": "0000000"
+}
+###G
+GET http://localhost:8080/account
+Content-Type: application/json
+
+
+
+###p
+PUT http://localhost:8080/account
+Content-Type: application/json
+
+###DE
+
+DELETE http://localhost:8080/account
+Content-Type: application/json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
